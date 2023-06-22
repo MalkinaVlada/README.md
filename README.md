@@ -1,6 +1,7 @@
 ### Hi there, I'm Vladа Malkina 👋
 
-## I'm a beginning Data Scientist!
-
+I'm a beginning Data Scientist!
 Actively looking for a job)
+
+### Languages and Tools:
 Python, Jupyter Notebook, GitHub, SQL
