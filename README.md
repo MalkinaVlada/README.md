@@ -5,7 +5,11 @@ Actively looking for a job)
 
 ### Languages and Tools:
 *Python, Jupyter Notebook, 
+
 GitHub, Catboost, Pandas, 
+
 Scikit-learn, Numpy, SciPy, 
+
 Matplotlib, Seaborn, SQL, 
+
 PySpark, PostgreSQL*
